@@ -1,0 +1,43 @@
+
+body{
+    font-family: 'Lexend Giga', sans-serif;
+}
+.page{
+    margin: 5px;
+    padding: 5px;
+}
+
+.header{
+    padding: 2em;
+    background-color: #fff;
+    text-align: center;
+}
+.header h1{
+    margin: 0;
+    padding: 10px;
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 38px;
+    letter-spacing: .075em;
+    line-height: .9em;
+    color: #000;
+}
+
+.body{
+    margin-top: 5em;
+}
+.empecemos{
+    margin-top: 1em;
+}
+h2{
+    font-family: 'Lexend Giga', sans-serif;
+    margin: 1em 0;
+}
+.footer{
+    margin: 3em auto;
+    text-align: center;
+}
+.rrss{
+    margin: 0.5em 1em;
+    width: 30px;
+    
+}
